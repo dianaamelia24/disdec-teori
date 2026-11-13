@@ -6,6 +6,12 @@
 
 # Kelas : Informatika-1
 
+# AI yang digunakan : chatgpt
+
+# Prompt : #bertindaklah aku sebagai mahasiswa aktif dalam mata kuliah sistem terdistribusi dan terdesentralisasi, berikan aku rangkuman dari modul 01 mata kuliah ini dalam bentuk markdown, jabarkan secara detail mengenai isi dari modul tersebut agar mudah dipahami untuk tugas laporan rangkuman modul tersebut. kemudian berikan aku langkah2 untuk mengerjakan dalam bentuk markdown (README.md).
+
+# Hasil Rangkuman Modul 01 :
+
 ## 1. Pendahuluan
 
 Perkembangan teknologi informasi yang semakin pesat menyebabkan pertumbuhan jumlah data, pengguna, dan kebutuhan layanan digital meningkat secara signifikan. Berbagai platform digital seperti Google, Netflix, YouTube, Instagram, dan layanan berbasis blockchain membutuhkan infrastruktur teknologi yang mampu menangani banyak permintaan pengguna secara bersamaan.
